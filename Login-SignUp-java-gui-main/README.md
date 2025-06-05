@@ -1,9 +1,9 @@
 # Java Login & Sign Up GUI
 
-## JAVA - How To Design Login And Register Form In Java Netbeans
+## JAVA 
 
 
-version: 1.0.0
+version: 1.1
 
 ## TECHNOLOGIES
 
@@ -11,11 +11,3 @@ version: 1.0.0
 1. Swing
 1. Java JFrame
 
-
-## Full Tutorial
-
-[On Youtube](https://youtu.be/jHSBrX8lLWk)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
