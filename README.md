@@ -1,2 +1,7 @@
-# Prototype2
-Is a shopping app that can be used as a template for marketplaces sites.
+# Prototipo Tienda Online - Beta 1.1
+
+Este repositorio contiene el informe y recursos del proyecto del prototipo de tienda online.
+
+👥 Integrantes:
+- Saúl Pérez Alean
+- Mario Alberto Hoyos Ospino
