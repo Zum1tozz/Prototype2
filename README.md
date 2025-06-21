@@ -1,4 +1,4 @@
-# Prototipo Ecomerce Web - Beta 1.4
+# Prototipo Ecomerce Web - Beta 3.0
 
 Este repositorio contiene el informe y recursos del proyecto del prototipo de Ecomerce store, donde se añadieron funciones nuevas como:
 -carrito
