@@ -7,6 +7,8 @@ Este repositorio contiene el informe y recursos del proyecto del prototipo de Ec
 -cerrar sesion
 -historial de compra
 
+Se añadieron funcionalidades extra como botones interactivos.
+
 👥 Integrantes:
 - Saúl Pérez Alean
 - Mario Alberto Hoyos Ospino
