@@ -2,6 +2,7 @@
 
 Este repositorio contiene el informe y recursos del proyecto del prototipo de Ecomerce store, donde se añadieron funciones nuevas como:
 -carrito
+-opciones de usuario
 
 👥 Integrantes:
 - Saúl Pérez Alean
