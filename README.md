@@ -5,6 +5,7 @@ Este repositorio contiene el informe y recursos del proyecto del prototipo de Ec
 -opciones de usuario
 -lista de deseos
 -cerrar sesion
+-historial de compra
 
 👥 Integrantes:
 - Saúl Pérez Alean
